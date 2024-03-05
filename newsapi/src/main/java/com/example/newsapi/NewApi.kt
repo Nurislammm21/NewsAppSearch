@@ -1,4 +1,7 @@
 package com.example.newsapi
 
-class NewApi {
+interface NewApi {
+
+
+    fun everything()
 }
